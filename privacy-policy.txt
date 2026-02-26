@@ -1,0 +1,45 @@
+Privacy Policy for Chrema
+
+Last Updated: February 23, 2026
+
+INTRODUCTION
+Chrema ("we", "our", "us") respects your privacy and is committed to protecting your personal data.
+
+INFORMATION WE COLLECT
+We collect and process the following information:
+- Email address (for authentication)
+- Financial information you provide (income, expenses, budget goals)
+- Usage data (how you interact with the app)
+
+HOW WE USE YOUR INFORMATION
+Your information is used to:
+- Provide personalized budget recommendations
+- Track your expenses and savings goals
+- Improve our services
+- Communicate important updates
+
+DATA STORAGE
+- All data is stored securely using Firebase/Google Cloud
+- We use industry-standard encryption
+- Your financial data is never shared with third parties for marketing
+
+YOUR RIGHTS
+You have the right to:
+- Access your personal data
+- Request deletion of your data
+- Export your data
+- Opt-out of communications
+
+THIRD-PARTY SERVICES
+We use:
+- Google Firebase (authentication and data storage)
+- Anthropic Claude AI (budget recommendations - data is not stored)
+
+CHILDREN'S PRIVACY
+Chrema is not intended for users under 13 years of age.
+
+CHANGES TO THIS POLICY
+We may update this policy. Changes will be posted in the app.
+
+CONTACT US
+For privacy concerns, email us at: support@chremaapp.com

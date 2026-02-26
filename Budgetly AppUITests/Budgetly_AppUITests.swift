@@ -1,13 +1,13 @@
 //
-//  Budgetly_AppUITests.swift
-//  Budgetly AppUITests
+//  Chrema_AppUITests.swift
+//  ChremaUITests
 //
 //  Created by Oluwanifemi Oloyede on 2/18/26.
 //
 
 import XCTest
 
-final class Budgetly_AppUITests: XCTestCase {
+final class Chrema_AppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

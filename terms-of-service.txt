@@ -1,0 +1,37 @@
+Terms of Service for Chrema
+
+Last Updated: February 23, 2026
+
+AGREEMENT TO TERMS
+By using Chrema, you agree to these Terms of Service.
+
+USE LICENSE
+We grant you a non-exclusive license to use Chrema for personal financial management.
+
+RESTRICTIONS
+You agree NOT to:
+- Misuse or attempt to hack the service
+- Share your account credentials
+- Use the app for illegal purposes
+- Attempt to reverse engineer the app
+
+DISCLAIMER
+Chrema provides budget recommendations powered by AI. These are suggestions, not financial advice. We are not responsible for financial decisions you make.
+
+ACCURACY OF INFORMATION
+While we strive for accuracy, we make no guarantees about the completeness or reliability of budget recommendations.
+
+LIMITATION OF LIABILITY
+Chrema and its creators are not liable for any financial losses resulting from use of the app.
+
+ACCOUNT TERMINATION
+We reserve the right to terminate accounts that violate these terms.
+
+CHANGES TO TERMS
+We may modify these terms. Continued use constitutes acceptance.
+
+GOVERNING LAW
+These terms are governed by the laws of the United States.
+
+CONTACT
+For questions, email: support@chremaapp.com

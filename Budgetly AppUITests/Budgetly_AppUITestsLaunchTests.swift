@@ -1,13 +1,13 @@
 //
-//  Budgetly_AppUITestsLaunchTests.swift
-//  Budgetly AppUITests
+//  Chrema_AppUITestsLaunchTests.swift
+//  ChremaUITests
 //
 //  Created by Oluwanifemi Oloyede on 2/18/26.
 //
 
 import XCTest
 
-final class Budgetly_AppUITestsLaunchTests: XCTestCase {
+final class Chrema_AppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

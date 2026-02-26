@@ -1,14 +1,14 @@
 //
-//  Budgetly_AppTests.swift
-//  Budgetly AppTests
+//  Chrema_AppTests.swift
+//  ChremaTests
 //
 //  Created by Oluwanifemi Oloyede on 2/18/26.
 //
 
 import XCTest
-@testable import Budgetly_App
+@testable import Chrema_App
 
-final class Budgetly_AppTests: XCTestCase {
+final class Chrema_AppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
