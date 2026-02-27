@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Chrema Logo" width="120" height="120">
+  <img src="https://postimg.cc/qNzSyNwB" alt="Chrema Logo" width="120" height="120"> 
   
   # Chrema
   ### Wealth Made Simple
