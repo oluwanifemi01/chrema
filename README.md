@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://postimg.cc/qNzSyNwB" alt="Chrema Logo" width="120" height="120"> 
+  <img src="https://i.postimg.cc/XY8WMFy5/ideogram-v3-0-App-icon-design-for-finance-app-called-Chrema-Greek-letter-Chi-CH-in-white-purpl-0-2.png" alt="Chrema Logo" width="120" height="120"> 
   
   # Chrema
   ### Wealth Made Simple
