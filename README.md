@@ -57,10 +57,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/screenshots/home.png" alt="Home" width="200">
-  <img src="assets/screenshots/tracker.png" alt="Tracker" width="200">
-  <img src="assets/screenshots/analytics.png" alt="Analytics" width="200">
-  <img src="assets/screenshots/summary.png" alt="Summary" width="200">
+  <img src="https://i.postimg.cc/yYLjw88N/IMG_0574.png" alt="Home" width="200">
+  <img src="https://i.postimg.cc/VLKg3kks/IMG_0575.png" alt="Tracker" width="200">
+  <img src="https://i.postimg.cc/hP2sHttD/IMG_0577.png" alt="Analytics" width="200">
+  <img src="https://i.postimg.cc/Kv0fd88X/IMG_0578.png" alt="Summary" width="200">
 </div>
 
 ---
