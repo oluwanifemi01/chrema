@@ -217,12 +217,7 @@ Have questions? Reach out at **support@chremaapp.com**/**o_oloyede@outlook.com**
 
 ---
 
-## Step 3: Create LICENSE File
-
-1. **Right-click** on project folder
-2. **New File** → **Empty**
-3. Name it: `LICENSE`
-4. Paste this (MIT License - most common for open source):
+## LICENSE 
 ```
 MIT License
 
